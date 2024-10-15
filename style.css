@@ -29,7 +29,7 @@ p {
 }
 
 .blur-background {
-    background-image: url('https://api.oneneko.com/v1/bing_today');
+    background-image: url('https://bing.img.run/1920x1080.php');
     background-size: cover;
     background-position: center;
     filter: blur(5px);
